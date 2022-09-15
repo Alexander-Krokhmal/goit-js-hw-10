@@ -1,25 +1,26 @@
 {
-  "name": "goit-js-hw-09",
+  "name": "goit-js-hw-10",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://alexander-krokhmal.github.io/goit-js-hw-09/",
+  "homepage": "https://alexander-krokhmal.github.io/goit-js-hw-10/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alexander-Krokhmal/goit-js-hw-09.git"
+    "url": "git+https://github.com/Alexander-Krokhmal/goit-js-hw-10.git"
   },
   "keywords": [],
   "author": "Alexander Krohmal <zeddicus.ak@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Alexander-Krokhmal/goit-js-hw-09/issues"
+    "url": "https://github.com/Alexander-Krokhmal/goit-js-hw-10/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.17.1",
     "flatpickr": "^4.6.13",
+    "lodash.debounce": "^4.0.8",
     "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
     "notiflix": "^3.2.5",
