@@ -25,7 +25,7 @@ function onSearchCountries(evt) {
     refs.countryList.innerHTML = '';
 
 
-    if (name === '') {
+    if (!name) {
         return;
     }
 
